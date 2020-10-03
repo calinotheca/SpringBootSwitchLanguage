@@ -25,5 +25,5 @@ b. If you would like define a new language set right locale code in SpringConfig
   lang.change=Change language
   ```
   ### 3. Screenshots
-  ![Image1](http://kwascow.civ.pl/public_html/file_repository/springBootSwitchLanguage1 "Screen 1")
-  ![Image1](http://kwascow.civ.pl/public_html/file_repository/springBootSwitchLanguage2 "Screen 2")
+  ![Image1](http://kwascow.civ.pl/public_html/file_repository/springBootSwitchLanguage1.png "Screen 1")
+  ![Image1](http://kwascow.civ.pl/public_html/file_repository/springBootSwitchLanguage2.png "Screen 2")
