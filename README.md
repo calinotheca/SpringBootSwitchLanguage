@@ -14,6 +14,16 @@ b. If you would like define a new language set right locale code in SpringConfig
   }
   ```
   and add a new properties file: messages_[your_language_code].properties
+  
+  ```java
+  # messages_en.properties
+  page.title=Title
+  page.content=Content
+  page.notTranslated=[Not translated text] 
+  lang.pl=Polish
+  lang.en=English
+  lang.change=Change language
+  ```
   ### 3. Screenshots
   ![Image1](http://kwascow.civ.pl/public_html/file_repository/springBootSwitchLanguage1 "Screen 1")
   ![Image1](http://kwascow.civ.pl/public_html/file_repository/springBootSwitchLanguage2 "Screen 2")
